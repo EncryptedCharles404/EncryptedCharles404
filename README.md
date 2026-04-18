@@ -31,7 +31,7 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 
 | Project | Description | Tools |
 |---|---|---|
-| [Retail Analytics Dashboard](https://public.tableau.com/app/profile/uzoma.njoku/viz/superstore_175530106215...00) | "First data analytics project — interactive dashboard analyzing 10,000+ transactions with sales trends and inventory insights. Built to learn Tableau and SQL fundamentals. | Tableau, SQL |
+| [Retail Analytics Dashboard](https://public.tableau.com/app/profile/uzoma.njoku/viz/superstore_175530106215...00) | First data analytics project — interactive dashboard analyzing 10,000+ transactions with sales trends and inventory insights. Built to learn Tableau and SQL fundamentals. | Tableau, SQL |
 
 ---
 
