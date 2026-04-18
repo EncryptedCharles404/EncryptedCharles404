@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Uzoma Charles Njoku 👋</h1>
-
 <p align="center">
   <b>Junior Cybersecurity Analyst</b> · SOC Operations · Threat Detection · Data Analytics
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/uzoma-charles-njoku">LinkedIn</a> •
   <a href="mailto:njokucharles98@gmail.com">Email</a>
@@ -22,6 +20,7 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 | Project | Description | Tools |
 |---|---|---|
 | [SOC-Home-Lab](https://github.com/EncryptedCharles404/SOC-Home-Lab) | Wazuh SIEM lab — brute-force detection, custom rules, alert triage & incident report | Wazuh, Sysmon, Hydra, MITRE ATT&CK |
+| [soc-analyst-portfolio](https://github.com/EncryptedCharles404/soc-analyst-portfolio) | SC-200 study portfolio — brute force alert triage, credential stuffing investigation, full incident lifecycle documented | Microsoft Sentinel, Windows Event Logs, KQL |
 | [cybersecurity-vulnerability-assessment](https://github.com/EncryptedCharles404/cybersecurity-vulnerability-assessment) | Python-based vulnerability identification and penetration testing lab | Python, Wireshark |
 | [password-security-analyser](https://github.com/EncryptedCharles404/password-security-analyser) | Tool analyzing password strength and data breach vulnerability | Python, HIBP API |
 | [CyberLogin-Defender](https://github.com/EncryptedCharles404/CyberLogin-Defender) | Python game simulating login authentication and log analysis | Python |
@@ -47,8 +46,8 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 
 | Category | Skills |
 |---|---|
-| **Security Tools** | Wazuh SIEM, Sysmon, Wireshark, ELK Stack, MITRE ATT&CK, Hydra |
-| **Languages** | Python, SQL, Java, C++, Bash |
+| **Security Tools** | Microsoft Sentinel, Wazuh SIEM, Sysmon, Wireshark, ELK Stack, MITRE ATT&CK, Hydra |
+| **Languages** | Python, SQL, KQL, Java, C++, Bash |
 | **Data Tools** | Power BI, Tableau, Excel |
 | **Systems** | Linux (Ubuntu), Windows, VMware |
 | **Concepts** | Threat Detection, Alert Triage, Incident Response, Detection Engineering |
