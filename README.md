@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Uzoma Charles Njoku 👋</h1>
 <p align="center">
-  <b>Junior Cybersecurity Analyst</b> · SOC Operations · Threat Detection · Data Analytics
+  <b>Junior Cybersecurity Analyst</b> · SOC Operations · Threat Detection · Data Analytics · 1st Line IT Support · Service Desk 
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/uzoma-charles-njoku">LinkedIn</a> •
