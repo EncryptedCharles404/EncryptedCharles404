@@ -14,6 +14,7 @@
 Cybersecurity & Data Analytics graduate with hands-on experience in threat detection, incident response, SIEM operations, and data visualization. Currently building a career in SOC analysis with a focus on real-world detection engineering and security monitoring.
 
 ---
+
 ## 🌍 Policy & Technology Research
 
 | Project | Description | Live |
@@ -22,6 +23,8 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 
 Research submitted to WIPO, African Development Bank, and Chatham House Africa Programme.
 Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digital Infrastructure · Cement
+
+---
 
 ## 🛡️ Cybersecurity Projects
 
