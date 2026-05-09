@@ -19,7 +19,7 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 
 | Project | Description | Live |
 |---|---|---|
-| [Diaspora Technology Observatory](https://github.com/EncryptedCharles404/Diaspora_Technology_Observatory) | Patent intelligence platform mapping free industrial technology for Nigerian manufacturers | [dto-portal.netlify.app](https://dto-portal.netlify.app) |
+| [Diaspora Technology Observatory](https://github.com/EncryptedCharles404/Diaspora_Technology_Observatory) | Patent intelligence platform mapping free industrial technology for Nigerian manufacturers | [dto-portal.com](https://dtoportal.com/) |
 
 Research submitted to WIPO, African Development Bank, and Chatham House Africa Programme.
 Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digital Infrastructure · Cement
