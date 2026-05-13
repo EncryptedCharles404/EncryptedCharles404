@@ -21,7 +21,7 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 |---|---|---|
 | [Diaspora Technology Observatory](https://github.com/EncryptedCharles404/Diaspora_Technology_Observatory) | Patent intelligence platform mapping free industrial technology for Nigerian manufacturers | [dto-portal.com](https://dtoportal.com/) |
 
-Research submitted to WIPO, African Development Bank, and Chatham House Africa Programme.
+Research submitted to WIPO, African Development Bank, and Chatham House Africa Programme.  
 Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digital Infrastructure · Cement
 
 ---
@@ -46,6 +46,14 @@ Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digi
 
 ---
 
+## 🏥 Client & Freelance Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [ISG Digital Onboarding Portal](https://github.com/EncryptedCharles404/fillable-word-form) | Built a complete digital employment application and regulatory onboarding package for an HCS care agency client — replacing the need for an expensive website. Two self-contained HTML files: a 14-section staff application form and a standalone referee letter. Features draw-to-sign canvases, auto-expanding tables, Texas HHSC / ANE / W-4 compliance, and PDF export via browser print. Zero dependencies, works offline, shareable by email or URL. | HTML, CSS, Vanilla JS, Office Open XML |
+
+---
+
 ## 🎓 Virtual Experience & Learning
 
 - **British Airways Data Science** (Forage) — Predictive modeling for customer behavior
@@ -59,6 +67,7 @@ Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digi
 |---|---|
 | **Security Tools** | Microsoft Sentinel, Wazuh SIEM, Sysmon, Wireshark, ELK Stack, MITRE ATT&CK, Hydra |
 | **Languages** | Python, SQL, KQL, Java, C++, Bash |
+| **Web** | HTML, CSS, JavaScript |
 | **Data Tools** | Power BI, Tableau, Excel |
 | **Systems** | Linux (Ubuntu), Windows, VMware |
 | **Concepts** | Threat Detection, Alert Triage, Incident Response, Detection Engineering |
