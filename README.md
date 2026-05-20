@@ -19,10 +19,10 @@ Cybersecurity & Data Analytics graduate with hands-on experience in threat detec
 
 | Project | Description | Live |
 |---|---|---|
-| [Diaspora Technology Observatory](https://github.com/EncryptedCharles404/Diaspora_Technology_Observatory) | Patent intelligence platform mapping free industrial technology for Nigerian manufacturers | [dto-portal.com](https://dtoportal.com/) |
+| [Diaspora Technology Observatory](https://github.com/EncryptedCharles404/Diaspora_Technology_Observatory) | Patent intelligence platform mapping 80 free industrial technologies for African manufacturers across all 54 AfCFTA member states | [dtoportal.com](https://dtoportal.com/) |
 
 Research submitted to WIPO, African Development Bank, and Chatham House Africa Programme.  
-Sectors: Pharmaceuticals · Energy · Steel · Agriculture · Automotive · Digital Infrastructure · Cement
+Sectors: Pharmaceuticals · Energy · Steel & Manufacturing · Agriculture & Food Processing · Textiles & Leather · Mining & Minerals · Automotive · Digital Infrastructure · Cement & Construction · Water & Sanitation · Chemicals & Plastics · Paper & Packaging
 
 ---
 
