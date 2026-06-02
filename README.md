@@ -42,7 +42,7 @@ Sectors: Pharmaceuticals · Energy · Steel & Manufacturing · Agriculture & Foo
 
 | Project | Description | Tools |
 |---|---|---|
-| [Retail Analytics Dashboard](https://public.tableau.com/app/profile/uzoma.njoku/viz/superstore_175530106215...00) | First data analytics project — interactive dashboard analyzing 10,000+ transactions with sales trends and inventory insights. Built to learn Tableau and SQL fundamentals. | Tableau, SQL |
+| [Retail Analytics Dashboard]([https://public.tableau.com/app/profile/uzoma.njoku/viz/superstore_175530106215...00](https://public.tableau.com/app/profile/uzoma.njoku/viz/superstore_17553010621500/BusinessOperationsOverview)) | First data analytics project — interactive dashboard analyzing 10,000+ transactions with sales trends and inventory insights. Built to learn Tableau and SQL fundamentals. | Tableau, SQL |
 
 ---
 
